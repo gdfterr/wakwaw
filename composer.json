@@ -1,0 +1,20 @@
+{
+    "name": "thecw-net/masters-of-illusion-season-6-episode-1-tv-streaming",
+    "description": "Watch Masters of Illusion Season 6 Episode 1 Online for Free Putlocker S06E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Masters of Illusion Season 6 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/Ct0jIoBnIs",
+            "homepage": "https://t.co/Ct0jIoBnIs",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
